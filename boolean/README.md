@@ -22,4 +22,4 @@
 
 ![Vennandornot][Vennandornot.png]
 
-[Vennandornot.png]: 
+[Vennandornot.png]: https://github.com/Kalter666/primitive_data_types/blob/master/boolean/Vennandornot.png
